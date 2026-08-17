@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm --prefix landing-coaching-vercel install",
+  "buildCommand": "npm --prefix landing-coaching-vercel run build",
+  "outputDirectory": "landing-coaching-vercel/dist"
+}
